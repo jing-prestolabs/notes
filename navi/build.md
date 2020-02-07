@@ -15,4 +15,10 @@ Need to manually build the following static libs:
 bazel build --config=opt //presto/feed\_subscriber/swordfish\_mds/swordfish\_mds_0\_15\_7\_4\_l2md:feed\_converter
 
 
+bazel build --config=opt //presto/feed\_subscriber/swordfish\_mds/swordfish\_mds_0\_15\_7\_4\_l1md:feed\_converter
+
+
+bazel build --config=opt //presto/feed\_subscriber/swordfish\_mds/swordfish\_mds_0\_15\_7\_4\_index:feed\_converter
+
+
 bazel build --config=opt //presto/feed\_tool/feed\_interval:proto\_feed\_to\_price\_change\_feed
