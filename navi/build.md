@@ -8,6 +8,7 @@ Need to manually build the following static libs:
 * protobuf (v3.3.0)
 * gflags (v2.2.1)
 * glog (v0.3.5)
+* ggooltest (release-1.6.0)
 * clang (llvmorg-3.9.1)
 * llvm (llvmorg-3.9.1)
 
