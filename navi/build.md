@@ -11,6 +11,9 @@ Need to manually build the following static libs:
 * ggooltest (release-1.6.0)
 * clang (llvmorg-3.9.1)
 * llvm (llvmorg-3.9.1)
+### Dynamic Linking for EL8 Docker
+* Remove protobuf-lite from third\-party/protobuf/BUILD
+* Build Clang/LLVM static libs
 
 ## Compile iosg apps
 bazel build --config=opt //presto/feed\_subscriber/swordfish\_mds/swordfish\_mds_0\_15\_7\_4\_l2md:feed\_converter
