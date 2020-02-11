@@ -10,7 +10,7 @@ Need to manually build the following static libs:
 * glog (v0.3.5)
 * ggooltest (release-1.6.0)
 * clang (llvmorg-3.9.1)
-* llvm (llvmorg-3.9.1)
+* llvm (llvmorg-3.9.1) [Note: we need to build RTTI enabled LLVM by passing "-DLLVM\_ENABLE\_RTTI=ON" to cmake]
 ### Dynamic Linking for EL8 Docker
 * Setup envrionment: install bazel, change timezone, create '/data/log' dir.
 * Remove protobuf-lite from third\-party/protobuf/BUILD
