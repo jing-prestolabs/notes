@@ -5,10 +5,10 @@
 * Two jenkins jobs: coin\_fastfeed and coin2\_fastfeed
 
 ### Data Files
-* Coin2 feed cache output: /remote/iosg/data/coin/feed\_cache/feed-05.ap-northeast-1.aws
-* Coin2 feed archive: /remote/iosg/coin/data/flow/feed-05.ap-northeast-1.aws
-* Coin feed cache output:  /remote/iosg/data/coin/feed\_cache/feed-01.ap-northeast-1.aws
-* Coin feed archive:  /remote/iosg/coin/data/flow/feed-01.ap-northeast-1.aws
+* Coin2 feed cache output: /remote/iosg/coin-2/feed\_cache2
+* Coin2 feed archive: /remote/iosg/coin/data/flow
+* Coin feed cache output:  /remote/iosg/coin-2/feed\_cache
+* Coin feed archive:  /remote/iosg/coin/data/flow
 
 ### Slurm Files
 * Coin2 batch: /home/jing/workspace/coin/data/coin2/feed/ops/fastfeed-converter
