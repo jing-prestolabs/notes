@@ -17,7 +17,7 @@
 |            |              |                         |                |                                     |                |
 | Huobi Swap |   PERPETUAL  |    BTC-USD.PERPETUAL    |     BTC-USD    |          BTC-USD.PERPETUAL          |     BTC-USD    |
 |            |              |                         |                |                                     |                |
-|    Okex    |     WEEK     |     BTC-USD.20200424    | BTC-USD-200424 |            BTC-USD-200424           | BTC-USD-200424 |
+|    Okex    |     WEEK     |     BTC-USD.20200424    | BTC-USD-200424 |            BTC-USD-WEEK             | BTC-USD-200424 |
 |            |   NEXT_WEEK  |    BTC-USD.20200501     | BTC-USD-200501 |          BTC-USD.NEXT_WEEK          | BTC-USD-200501 |
 |            |    QUARTER   |     BTC-USD.20200626    | BTC-USD-200626 |           BTC-USD.QUARTER           | BTC-USD-200626 |
 |            | NEXT_QUARTER |     BTC-USD.20200925    | BTC-USD-200925 |         BTC-USD.NEXT_QUARTER        | BTC-USD-200925 |
