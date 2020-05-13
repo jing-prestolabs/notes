@@ -23,3 +23,5 @@
 |            | NEXT_QUARTER |     BTC-USD.20200925    | BTC-USD-200925 |         BTC-USD.NEXT_QUARTER        | BTC-USD-200925 |
 |            |              |                         |                |                                     |                |
 |  Okex Swap |   PERPETUAL  |    BTC-USD.PERPETUAL    |  BTC-USD-SWAP  |          BTC-USD.PERPETUAL          |  BTC-USD-SWAP  |
+|  Bybit     |   PERPETUAL  |    BTC-USD.PERPETUAL    |     BTCUSD     |          BTC-USD.PERPETUAL          |     BTCUSD     |
+|  Bybit L   |   PERPETUAL  |    BTC-USDT.PERPETUAL   |     BTCUSDT    |          BTC-USDT.PERPETUAL         |     BTCUSDT    |
