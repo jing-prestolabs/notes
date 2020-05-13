@@ -25,6 +25,6 @@
 |  Okex Swap |   PERPETUAL  |    BTC-USD.PERPETUAL    |  BTC-USD-SWAP  |          BTC-USD.PERPETUAL          |  BTC-USD-SWAP  |
 |  Bybit     |   PERPETUAL  |    BTC-USD.PERPETUAL    |     BTCUSD     |          BTC-USD.PERPETUAL          |     BTCUSD     |
 |  Bybit L   |   PERPETUAL  |    BTC-USDT.PERPETUAL   |     BTCUSDT    |          BTC-USDT.PERPETUAL         |     BTCUSDT    |
-|    Ftx     |   QUARTER    |    BTC-USD.20200626     |  BTCUSD-0626   |          BTC-USD.QUARTER            |  BTCUSD-0626   |
-|            | NEXT_QUARTER |    BTC-USD.20200925     |  BTCUSD-0925   |          BTC-USD.NEXT_QUARTER       |  BTCUSD-0925   |
-|            |   PERPETUAL  |    BTC-USD.PERPETUAL    |  BTCUSD-PERP   |          BTC-USD.PERPETUAL          |  BTCUSD-PERP   |
+|    Ftx     |   QUARTER    |    BTC-USD.20200626     |  BTC-0626      |          BTC-USD.QUARTER            |  BTC-0626      |
+|            | NEXT_QUARTER |    BTC-USD.20200925     |  BTC-0925      |          BTC-USD.NEXT_QUARTER       |  BTC-0925      |
+|            |   PERPETUAL  |    BTC-USD.PERPETUAL    |  BTC-PERP      |          BTC-USD.PERPETUAL          |  BTC-PERP      |
